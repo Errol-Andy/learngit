@@ -1,4 +1,4 @@
-git is bug
+git is bug fixed
 dev 
 branch 
 --no-ff
